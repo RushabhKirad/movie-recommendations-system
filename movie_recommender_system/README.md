@@ -13,22 +13,6 @@ This is a **Content-Based Movie Recommender System** built using the [MovieLens 
 
 ---
 
-## 📁 Project Structure
-
-movie_recommender_system/
-├── data/ # Contains u.item from MovieLens
-├── app/ # Streamlit app UI
-│ └── app.py
-├── utils/ # Core recommender logic
-│ └── recommender.py
-├── notebooks/ # Optional: development notebooks
-│ └── movie_recommender.ipynb
-├── test.py # Script to test logic before UI
-├── requirements.txt
-└── README.md
-
----
-
 ## 🚀 How to Run
 
 1. Clone the repo or download the folder  
